@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-19T23:53:03 IST" name="Default suite" finished-at="2023-03-19T23:53:23 IST" duration-ms="19606">
+    <groups>
+    </groups>
+    <test started-at="2023-03-19T23:53:03 IST" name="Default test" finished-at="2023-03-19T23:53:23 IST" duration-ms="19606">
+      <class name="com.test.CreateProjectTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.CreateProjectTest@20deea7f]" started-at="2023-03-19T23:53:03 IST" name="setup" finished-at="2023-03-19T23:53:08 IST" duration-ms="4435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProjectCreateSuccessfully()[pri:0, instance:com.test.CreateProjectTest@20deea7f]" started-at="2023-03-19T23:53:08 IST" name="verifyProjectCreateSuccessfully" finished-at="2023-03-19T23:53:20 IST" duration-ms="12688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProjectCreateSuccessfully -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.test.CreateProjectTest@20deea7f]" started-at="2023-03-19T23:53:20 IST" name="TearDown" finished-at="2023-03-19T23:53:23 IST" duration-ms="2433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.test.CreateProjectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
